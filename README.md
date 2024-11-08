@@ -46,3 +46,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadpy12&show_icons=true&locale=en" alt="asadpy12" /></p>
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate or just say hi or give me the stars if you think I really work hard! 😊
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AsadPy12.AsadPy12)
