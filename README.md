@@ -30,7 +30,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sheikh-muhammad-asad-ullah-83b302328/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheikh muhammad asad ullah" height="30" width="40" /></a>
-<a href="https://kaggle.com/asad ullah py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="asad ullah py" height="30" width="40" /></a>
 <a href="https://instagram.com/asad._.ullah_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asad._.ullah_" height="30" width="40" /></a>
 </p>
 
